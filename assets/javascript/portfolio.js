@@ -40,32 +40,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
     $(document).ready(function () {
         var links = [
-            {
-                name: 'Lummit',
-                link: '76561197960276740'
-            },
-                
-            {
-                name: 'Neso',
-                link: '76561198193201687'
-            },
-                
-            {
-                name: 'loljuxd',
-                link: '76561197985625197'
-            },
-
-            {
-                name: 'Vez',
-                link: '76561198823371232'
-            },
-
-            {
-                name: 'mannin',
-                link: '76561198053882179'
-            }
-        ];
-         
+            
         for (var i in links) {
             var link = links[i];
 
