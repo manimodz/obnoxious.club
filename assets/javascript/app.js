@@ -22,7 +22,7 @@ var _app = function () {
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['Axim', 'Axim', 'Axim', 'Axim', 'Axim', '', '', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)'];
+            ['Axim', 'Axim', 'Axim', 'Axim', 'Axim', '', '', 'XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd).mp3'];
         delay = delay || 2000;
 
         var counter = 0;
