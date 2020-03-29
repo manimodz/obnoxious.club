@@ -22,7 +22,7 @@ var _app = function () {
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['Lummit', 'Neso', '', 'Vez', '', '=', '', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)'];
+            ['Lummit', '', '', '', '', '', '', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)'];
         delay = delay || 2000;
 
         var counter = 0;
